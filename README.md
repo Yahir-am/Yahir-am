@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Yahir 👋
 
-<!--
-**Yahir-am/Yahir-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science student passionate about Machine Learning and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy building projects where data, programming and mathematics come together to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Analysis
+- Python Development
+
+## 🛠️ Technologies
+
+### Programming
+- Python
+- SQL
+
+### Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow / PyTorch
+
+### Tools
+- Git & GitHub
+- Docker
+- Jupyter Notebook
+
+## 📌 Featured Projects
+
+🏠 **Housing Price Prediction**
+> Machine Learning project focused on analyzing and predicting housing prices.
+
+📊 **Data Visualization Dashboard**
+> Interactive dashboard for exploring and communicating data insights.
+
+🧠 **Machine Learning & NLP Projects**
+> Experiments with predictive models and text analysis.
+
+## 📚 Currently learning
+
+- Advanced Machine Learning
+- Deep Learning architectures
+- Natural Language Processing
+- Software practices for Data Science
