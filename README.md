@@ -111,8 +111,7 @@ I'm a Data Science student based in Mexico City, passionate about turning data i
 <td>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</td>
+<img src="https://img.shields.io/badge/Azure-31ACE9?style=for-the-badge" alt="Azure" />
 </tr>
 </table>
 
