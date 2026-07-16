@@ -1,7 +1,3 @@
-
-<p align="center">
-    <img src="./assets/banner.png" width="100%" style="border-radius:16px;"/>
-</p>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=220&section=header&text=Hi,%20I'm%20Yahir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Machine%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=55&descSize=18" width="100%" alt="header" />
 
@@ -20,8 +16,10 @@
 </a>
 
 </div>
-
 <br>
+<p align="center">
+    <img src="./assets/banner.png" width="100%" style="border-radius:16px;"/>
+</p>
 
 ## About Me
 
